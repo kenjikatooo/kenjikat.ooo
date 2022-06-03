@@ -2,10 +2,10 @@
  * @type {import('~/types').BlogConfig}
  */
 const BLOG = {
-  title: 'yokinist.me',
-  author: 'yokinist',
-  email: 'yokinist@gmail.com',
-  link: 'https://yokinist.me',
+  title: 'kenjikat.ooo',
+  author: 'kenjikatooo',
+  email: 'kenjikatooo@gmail.com',
+  link: 'https://kenjikat.ooo',
   description: '色々なことを雑多に書いていく場所。とりとめもないエッセイやポエム・趣味の話などなど。',
   lang: 'ja-JP', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'dark', // ['light', 'dark'],
@@ -48,7 +48,7 @@ const BLOG = {
       clientID: 'f06077c5603d6099ec37',
       clientSecret: process.env.GITALK_CLIENT_SECRET,
       admin: ['yokinist'],
-      id: 'yokinist.me', // Ensure uniqueness and length less than 50
+      id: 'kenjikat.ooo', // Ensure uniqueness and length less than 50
       distractionFreeMode: false,
     },
     utterancesConfig: {

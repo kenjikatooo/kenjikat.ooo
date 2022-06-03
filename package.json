@@ -1,11 +1,11 @@
 {
-  "name": "yokinist.me",
+  "name": "kenjikat.ooo",
   "version": "1.0.0",
-  "homepage": "https://yokinist.me",
+  "homepage": "https://kenjikat.ooo",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yokinist/yokinist.me.git"
+    "url": "https://github.com/yokinist/kenjikat.ooo.git"
   },
   "scripts": {
     "dev": "next dev -p 8080",

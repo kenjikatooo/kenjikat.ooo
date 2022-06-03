@@ -1,15 +1,15 @@
-# yokinist.me
+# kenjikat.ooo
 
 A static blog build on top of Notion and Nextjs, deployed on [Vercel](https://vercel.com?utm_source=yokinist&utm_campaign=oss).
 
 This repo is customized based on [craigary/nobelium](https://github.com/craigary/nobelium).
 
 <p>
-  <a aria-label="GitHub commit activity" href="https://github.com/yokinist/yokinist.me/commits/main" title="GitHub commit activity">
-    <img src="https://img.shields.io/github/commit-activity/m/yokinist/yokinist.me?style=for-the-badge">
+  <a aria-label="GitHub commit activity" href="https://github.com/yokinist/kenjikat.ooo/commits/main" title="GitHub commit activity">
+    <img src="https://img.shields.io/github/commit-activity/m/yokinist/kenjikat.ooo?style=for-the-badge">
   </a>
   <a aria-label="Build status" href="#" title="Build status">
-    <img src="https://img.shields.io/github/deployments/yokinist/yokinist.me/Preview?logo=Vercel&style=for-the-badge">
+    <img src="https://img.shields.io/github/deployments/yokinist/kenjikat.ooo/Preview?logo=Vercel&style=for-the-badge">
   </a>
   <a aria-label="Powered by Vercel" href="https://vercel.com?utm_source=Craigary&utm_campaign=oss" title="Powered by Vercel">
     <img src="https://www.datocms-assets.com/31049/1618983297-powered-by-vercel.svg" height="28">
@@ -50,7 +50,7 @@ This repo is customized based on [craigary/nobelium](https://github.com/craigary
 
 - Star this repo 😉
 - Duplicate [this Notion template](https://yokinist.notion.site/761c04c4ff6e467188fe67c8a36e20b9?v=0643f1ef640642fbb84032202708336f), and share it to the public
-- [Fork](https://github.com/yokinist/yokinist.me/fork) this project
+- [Fork](https://github.com/yokinist/kenjikat.ooo/fork) this project
 - Customize `blog.config.js`
 - _(Optional)_ Replace `favicon.svg`, and `favicon.ico` in `/public` folder with your own
 - Deploy on [Vercel](https://vercel.com), set following environment variables：
@@ -58,7 +58,7 @@ This repo is customized based on [craigary/nobelium](https://github.com/craigary
 - **That's it!** Easy-peasy?
 
 <details><summary>Wait for a sec, what is Page ID？</summary>
-  <img src="https://github.com/yokinist/yokinist.me/blob/main/pageid.png?raw=true">
+  <img src="https://github.com/yokinist/kenjikat.ooo/blob/main/pageid.png?raw=true">
 </details>
 
 ## Getting started in developing
